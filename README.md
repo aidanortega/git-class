@@ -8,4 +8,6 @@ git help
 git add <file>
 git status
 git commit -m"Message"
+git log
+git diff
 ``
