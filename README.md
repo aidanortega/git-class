@@ -10,4 +10,6 @@ git status
 git commit -m"Message"
 git log
 git diff
-``
+git checkout
+git branch
+```
