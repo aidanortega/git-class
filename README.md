@@ -14,4 +14,6 @@ git branch
 git checkout -b "Name"
 git reset
 git reset --hard
+git remote add
+https://github.com/aidanortega/git-class.git
 ```
